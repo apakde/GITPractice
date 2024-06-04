@@ -22,3 +22,5 @@ Branch:-
     It is the new work area, aside from the master branch that contains all the updates of master and won't affect the master branch.
     command:- git branch "branch name"
     How to name: reason/component Eg - bug-fix/navbar
+To rename a branch, you have to be in the branch to rename it.
+command- git branch -M "name"
