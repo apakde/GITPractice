@@ -15,3 +15,5 @@ This commits the changes done to the file in the commit area.
 
 Reset:-
     command - git reset --hard <SHA || ID>. This will revert all changes done after the commit of the input SHA ID.
+Revert:-
+    command - git revert <SHA || ID>. This will revert only oppose the changes done to a specific commit of the input SHA ID.
