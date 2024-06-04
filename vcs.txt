@@ -17,3 +17,8 @@ Reset:-
     command - git reset --hard <SHA || ID>. This will revert all changes done after the commit of the input SHA ID.
 Revert:-
     command - git revert <SHA || ID>. This will revert only oppose the changes done to a specific commit of the input SHA ID.
+
+Branch:-
+    It is the new work area, aside from the master branch that contains all the updates of master and won't affect the master branch.
+    command:- git branch "branch name"
+    How to name: reason/component Eg - bug-fix/navbar
