@@ -1,3 +1,2 @@
 Hello World.
 This is a sample text file.
-New commit to be done.
