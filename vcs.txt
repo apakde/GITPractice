@@ -8,3 +8,6 @@ The files which come to staging area get committed.
 It shows the status of the files whether they are tracked or untracked.
 3) git add <file name>
 Adds files that require to be committed.
+4) git commit -m "message"
+This commits the changes done to the file in the commit area.
+-> [git commit -am "message"] This directly commits the file to commit area without staging area.
