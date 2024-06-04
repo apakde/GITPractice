@@ -11,3 +11,4 @@ Adds files that require to be committed.
 4) git commit -m "message"
 This commits the changes done to the file in the commit area.
 -> [git commit -am "message"] This directly commits the file to commit area without staging area.
+5) git log This shows all changes done.
