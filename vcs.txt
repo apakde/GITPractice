@@ -1,0 +1,10 @@
+Git is a software that helps in Version Controlling System. It is basically a Distributive vcs. It helps for local vcs.
+Git is a free and open-source version control system that allows developers to track changes made to their code.
+Apache SVN is a centralised VCS. It helps for both local and remote. Pushes changes directly to remote repo.
+1) git init
+As soon as we initialise git, there are 3 areas: Working, Staging and Commit area.
+The files which come to staging area get committed.
+2) git status
+It shows the status of the files whether they are tracked or untracked.
+3) git add <file name>
+Adds files that require to be committed.
