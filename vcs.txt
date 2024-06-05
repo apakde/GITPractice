@@ -40,3 +40,4 @@ To merge a branch:
     Scene2 = Perform actions in both branches, on different files.
         ORT Strat is used when SCENE2 Merge is used.
     Scene3 = Perform actions in both branches and on same files.
+        Conflicts will arise when we merge.
