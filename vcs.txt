@@ -35,4 +35,4 @@ To create and move to a new branch:
     To delete a branch: git branch -D "branchname"
 To merge a branch:
     git merge <branchname>
-    Always secondary into primary, i.e., you have to be in primary branch to 
+    Always secondary into primary, i.e., you have to be in primary branch to merge the secondary branch.
