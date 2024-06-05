@@ -36,3 +36,5 @@ To create and move to a new branch:
 To merge a branch:
     git merge <branchname>
     Always secondary into primary, i.e., you have to be in primary branch to merge the secondary branch.
+    Scene1 = Performed actions only in one of the branches.
+    Scene2 = Perform actions in both branches, probably on different files.
