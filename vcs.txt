@@ -26,3 +26,9 @@ Branch:-
     How to name: reason/component Eg - bug-fix/navbar
 To rename a branch, you have to be in the branch to rename it.
 command- git branch -M "name"
+To move to the new branch:
+    git checkout <brannchname>
+    git switch <branchname>
+To create and move to a new branch:
+    git checkout -b "branchname"
+    git switch -c "branchname"
