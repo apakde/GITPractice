@@ -13,6 +13,7 @@ This commits the changes done to the file in the commit area.
 -> [git commit -am "message"] This directly commits the file to commit area without staging area.
 5) git log This shows all changes done.
 6) git config --global alias.<newcommand> <oldcommand>
+7) git show <SHA || ID>
 
 Reset:-
     command - git reset --hard <SHA || ID>. This will revert all changes done after the commit of the input SHA ID.
