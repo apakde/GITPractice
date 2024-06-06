@@ -53,7 +53,7 @@ Stash:
     to see all stashes: git stash list
 Diff:
     Compares two different commits using their SHA IDs
-    1) git diff
-    2) git diff --staged
+    1) git diff - compares files beetween latest commit and working area.
+    2) git diff --staged - compares between latest commit and staging area.
     3) git diff <SHA||ID>..<SHA||ID>
     4) git diff <SHA||ID> <SHA||ID>
