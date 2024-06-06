@@ -51,3 +51,5 @@ Stash:
     stores changes to temp database
     get back changes: git stash pop
     to see all stashes: git stash list
+Diff:
+    Compares two different commits using their SHA IDs
