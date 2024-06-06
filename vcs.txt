@@ -42,3 +42,7 @@ To merge a branch:
     Scene3 = Perform actions in both branches and on same files.
         Conflicts will arise when we merge.
         This arises some conflicts when you change on same files..
+
+Cherrypicking:
+    Picks specific commit from one branch and get it to main branch.
+    command: git cherry-pick <SHA || ID>
