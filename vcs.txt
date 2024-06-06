@@ -53,3 +53,7 @@ Stash:
     to see all stashes: git stash list
 Diff:
     Compares two different commits using their SHA IDs
+    1) git diff
+    2) git diff --staged
+    3) git diff <SHA||ID>..<SHA||ID>
+    4) git diff <SHA||ID> <SHA||ID>
