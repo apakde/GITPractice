@@ -46,4 +46,8 @@ This arises some conflicts when you change on same files..
 Cherrypicking:
     Picks specific commit from one branch and get it to main branch.
     command: git cherry-pick <SHA || ID>
-        
+Stash:
+    command: git stash
+    stores changes to temp database
+    get back changes: git stash pop
+    to see all stashes: git stash list
